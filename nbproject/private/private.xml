@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/SuperMarket/src/java/Api/Item.java</file>
+            <file>file:/E:/SuperMarket/src/java/Api/DBClass.java</file>
+            <file>file:/E:/SuperMarket/src/java/Api/Billing.java</file>
+            <file>file:/E:/SuperMarket/web/header.jsp</file>
+            <file>file:/E:/SuperMarket/src/java/Api/ShoppingCart.java</file>
+            <file>file:/E:/SuperMarket/web/index.jsp</file>
+            <file>file:/E:/SuperMarket/web/ShowProductCatalog.jsp</file>
+            <file>file:/E:/SuperMarket/src/java/RemoveItemServlet.java</file>
+            <file>file:/E:/SuperMarket/src/java/Api/ShoppingCartException.java</file>
+            <file>file:/E:/SuperMarket/web/DisplayShoppingCart.jsp</file>
+            <file>file:/E:/SuperMarket/src/java/CheckoutServlet.java</file>
+            <file>file:/E:/SuperMarket/web/Checkout.jsp</file>
+            <file>file:/E:/SuperMarket/src/java/Api/ProductCatalog.java</file>
+            <file>file:/E:/SuperMarket/src/java/AddToShoppingCartServlet.java</file>
+            <file>file:/E:/SuperMarket/web/DisplayShoppingCartWOHF.jsp</file>
+            <file>file:/E:/SuperMarket/web/ShowConfirmation.jsp</file>
+            <file>file:/E:/SuperMarket/web/contact.jsp</file>
+            <file>file:/E:/SuperMarket/src/java/Api/Shipping.java</file>
+        </group>
+    </open-files>
+</project-private>
